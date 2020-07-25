@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2005: "void __cdecl BubbleSort(class std::vector<int,class std::allocator<int> > &)" (?BubbleSort@@YAXAAV?$vector@HV?$allocator@H@std@@@std@@@Z) 已经在 tenAlgorithm.obj 中定义
+C:\Users\ASUS\source\repos\十大经典算法\十大经典算法\Debug\十大经典算法.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
