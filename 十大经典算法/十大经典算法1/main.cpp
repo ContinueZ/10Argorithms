@@ -1,7 +1,7 @@
 
 #include "tenAlgorithm.h"
 
-//×¢ÊÍ²âÊÔ
+//test notes
 int main()
 {
 	vector<int> v{ 1, 3, 10, 5, 2, 15, 9 };
